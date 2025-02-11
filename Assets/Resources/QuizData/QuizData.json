@@ -1,0 +1,132 @@
+[
+	{
+		"question": "What is the most common nickname for Geralt of Rivia in the The Witcher franchise?",
+		"correctAnswer": "The Butcher of Blaviken",
+		"incorrectAnswers": 
+		[
+			"The Deceiver of Nûmenor",
+			"The Mountain that Rides",
+			"The Waylander of Dros Delnoch"
+		]
+	},
+	{
+		"question": "What is the name of the forest in which the Fellowship of the Ring meets Galadriel in The Lord of the Rings?",
+		"correctAnswer": "Lothlórien",
+		"incorrectAnswers": 
+		[
+			"Fangorn Forest",
+			"Mirkwood",
+			"The Old Forest"
+		]
+	},
+	{
+		"question": "What is the oldest building",
+		"correctAnswer": "The Great Pyramid",
+		"incorrectAnswers": 
+		[
+			"The Parthenon",
+			"The Tower of London",
+			"The White House"
+		]
+	},
+	{
+		"question": "Who was Rome's first Emperor",
+		"correctAnswer": "Gaius Julius Caesar Augustus",
+		"incorrectAnswers": 
+		[
+			"Gaius Iulius Caesar",
+			"Nero Claudius Caesar Augustus Germanicus",
+			"Scipio Africanus"
+		]
+	},
+	{
+		"question": "How many swords should one own?",
+		"correctAnswer": "The amount of swords one currently owns plus one",
+		"incorrectAnswers": 
+		[
+			"None",
+			"Two",
+			"One"
+		]
+	},
+	{
+		"question": "Which feline is the biggest?",
+		"correctAnswer": "Tiger",
+		"incorrectAnswers": 
+		[
+			"Lion",
+			"Cheeta",
+			"Jaguar"
+		]
+	},
+	{
+		"question": "What is the best Star Wars movie?",
+		"correctAnswer": "The Last Jedi",
+		"incorrectAnswers": 
+		[
+			"A New Hope",
+			"The Empire Strikes Back",
+			"Revenge of the Sith"
+		]
+	},
+	{
+		"question": "Who was the first president of the United States of America?",
+		"correctAnswer": "George Washington",
+		"incorrectAnswers": 
+		[
+			"Benjamin Franklin",
+			"Barack Obama",
+			"Thomas Jefferson"
+		]
+	},
+	{
+		"question": "What year did the Chicago Bulls win their sixth NBA Championship?",
+		"correctAnswer": "1998",
+		"incorrectAnswers": 
+		[
+			"1996",
+			"1997",
+			"1999"
+		]
+	},
+	{
+		"question": "What is the first name of Emperor Palpatine in the Star Wars movies?",
+		"correctAnswer": "Sheev",
+		"incorrectAnswers": 
+		[
+			"Beal",
+			"Krennick",
+			"Kylo"
+		]
+	},
+	{
+		"question": "What is the name of Anakin Skywalker's Padawaan?",
+		"correctAnswer": "Ahsoka",
+		"incorrectAnswers": 
+		[
+			"Grogu",
+			"Kit Fisto",
+			"Padmé"
+		]
+	},
+	{
+		"question": "What is the name of the last emperor of the Western Roman Empire?",
+		"correctAnswer": "Romulus Augustulus",
+		"incorrectAnswers": 
+		[
+			"Marcus Aurelius",
+			"Gaius Iulus Caesar",
+			"Lucius Domitius Ahenobarbus"
+		]
+	},
+	{
+		"question": "What was the name of the Capital Planet of the Galactic Republic in Star Wars?",
+		"correctAnswer": "Coruscant",
+		"incorrectAnswers": 
+		[
+			"Tatooine",
+			"Alderaan",
+			"Hosnian Prime"
+		]
+	}
+]
